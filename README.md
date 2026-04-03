@@ -33,7 +33,7 @@ through an online portal, while allowing managers to approve or reject requests 
 
 ## Sequence diagrame
 (Sequence diagrame)
-![Sequence diagrame](employeeSequencediagrame.png)
+![Sequence diagrame](Sequence diagrame.png)
 
 ## Pseudocode for employee
 
